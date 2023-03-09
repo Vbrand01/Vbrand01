@@ -12,7 +12,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vbrand01&bg_color=000000&color=ffffff&line=00ffb7&point=00ffaa&area=true&hide_border=true)](https://github.com/Vbrand01/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="45%" height="175px" src="https://github-readme-stats.vercel.app/api?username=vbrand01&show_icons=true&count_private=true&hide_border=true&title_color=00ffaa&icon_color=00ffaa&text_color=ffffff&bg_color=0d1117" alt="Victor Brandao github stats" /> 
+  <img width="45%" height="175px" src="https://github-readme-stats.vercel.app/api?username=Vbrand01&show_icons=true&count_private=true&hide_border=true&title_color=00ffaa&icon_color=00ffaa&text_color=ffffff&bg_color=0d1117" alt="Victor Brandao github stats" /> 
   <img width="46%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbrand01&layout=compact&hide_border=true&title_color=00ffaa&text_color=ffffff&bg_color=0d1117" />
 </div>
 
