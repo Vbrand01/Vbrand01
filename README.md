@@ -13,8 +13,8 @@
 
 <div align="center">  
   <img width="45%" height="175px" src="https://github-readme-stats.vercel.app/api?username=Vbrand01&show_icons=true&count_private=true&hide_border=true&title_color=00ffaa&icon_color=00ffaa&text_color=ffffff&bg_color=0d1117" alt="Victor Brandao github stats" /> 
-  <img width="46%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbrand01&layout=compact&hide_border=true&title_color=00ffaa&text_color=ffffff&bg_color=0d1117" />
-</div>
+<!--   <img width="46%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbrand01&layout=compact&hide_border=true&title_color=00ffaa&text_color=ffffff&bg_color=0d1117" />
+</div> -->
 
 
                                                                                                                          .
@@ -27,11 +27,10 @@
 
 
  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+<!-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;  -->
 
 
 
