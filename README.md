@@ -9,11 +9,11 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4b4b4b?style=for-the-badge&logo=linkedin&logoColor=00ffaa" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vbrand01&bg_color=000000&color=ffffff&line=00ffb7&point=00ffaa&area=true&hide_border=true)](https://github.com/Vbrand01/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vbrand01&bg_color=000000&color=ffffff&line=00ffb7&point=00ffaa&area=true&hide_border=true)](https://github.com/Vbrand01/github-readme-activity-graph)
 
 <div align="center">  
   <img width="45%" height="175px" src="https://github-readme-stats.vercel.app/api?username=Vbrand01&show_icons=true&count_private=true&hide_border=true&title_color=00ffaa&icon_color=00ffaa&text_color=ffffff&bg_color=0d1117" alt="Victor Brandao github stats" /> 
-  <img width="46%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbrand01&layout=compact&hide_border=true&title_color=00ffaa&text_color=ffffff&bg_color=0d1117" />
+  <img width="46%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vbrand01&layout=compact&hide_border=true&title_color=00ffaa&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 
@@ -29,7 +29,7 @@
  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 
