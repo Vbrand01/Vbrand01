@@ -1,32 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b4b4b&height=120&section=header"/>
+## 🤙 Olá, seja bem-vindo! 
+Trabalho como Desenvolvedor Front-End, uma área que despertou minha paixão desde os meus primeiros contatos com a tecnologia. Minha jornada até aqui foi marcada por diversos projetos, os quais me proporcionaram um crescimento notável. A busca incessante pelo aprimoramento é o meu lema diário, com dedicação constante à aprendizagem, à prática e à busca por excelência, tanto em minha esfera pessoal quanto profissional.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffaa&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Victor+Brandão;I'm+from+Brazil+SP;I'm+20+years+old;I+majoring+in+Systems+Analysis+and+Development;Be+Welcome!+:%22)](https://git.io/typing-svg)
+## 🔨 Tecnologias e ferramentas
+![](https://img.shields.io/badge/🔓-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/🔓-Vue-informational?style=flat&color=informational&logo=vue.js)
+![](https://img.shields.io/badge/🔓-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/🔓-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/🔓-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/🔓-Figma-informational?style=flat&color=warning&logo=figma)
+![](https://img.shields.io/badge/🔓-HTML-informational?style=flat&color=warning&logo=html5)
+![](https://img.shields.io/badge/🔓-CSS-informational?style=flat&color=warning&logo=css3)
+![](https://img.shields.io/badge/🔓-SCSS-informational?style=flat&color=warning&logo=sass)
+![](https://img.shields.io/badge/🔓-Wordpress-informational?style=flat&color=warning&logo=wordpress)
 
-<div align="center"> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4b4b4b?style=for-the-badge&borders=20&logo=instagram&logoColor=00ffaa"</a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-4b4b4b?style=for-the-badge&logo=youtube&logoColor=00ffaa" target="_blank"></a>
-<a href = "mailto:cmp.1a."> <img src="https://img.shields.io/badge/-Gmail-4b4b4b?style=for-the-badge&logo=gmail&logoColor=00ffaa" target="_blank"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4b4b4b?style=for-the-badge&logo=linkedin&logoColor=00ffaa" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
- <br/>
-
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vbrand01&bg_color=000000&color=ffffff&line=00ffb7&point=00ffaa&area=true&hide_border=true)](https://github.com/Vbrand01/github-readme-activity-graph) -->
-
-
-
-
-                                                                                                                         .
-                                                                                                                         
-                                                                                                         .
-                                                                                                         
-                                                              .                                           
-                                                              
-                                     .                         
-
-
-<!-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;  -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b4b4b&height=120&section=footer"/>
+<img src="https://cdn.discordapp.com/attachments/1067165862513102954/1199752780605304973/vb3.png?ex=65c3afd9&is=65b13ad9&hm=e185a3d717d397a487b7a45333c467908471aa2a5a17dd6d372626ae94c61834&"/> </a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vbrand01&theme=github-green-purple&hide_border=verdadeiro&date_format=j%2Fn%5B%2FY%5D&card_width=1200)](https://git.io/streak-stats)
+## ⬆ Estatística 
