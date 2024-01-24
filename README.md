@@ -2,11 +2,11 @@
 Trabalho como Desenvolvedor Front-End, uma área que despertou minha paixão desde os meus primeiros contatos com a tecnologia. Minha jornada até aqui foi marcada por diversos projetos, os quais me proporcionaram um crescimento notável. A busca incessante pelo aprimoramento é o meu lema diário, com dedicação constante à aprendizagem, à prática e à busca por excelência, tanto em minha esfera pessoal quanto profissional.
 
 ## 🔨 Tecnologias e ferramentas
-![](https://img.shields.io/badge/🔓-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/🔓-Vue-informational?style=flat&color=informational&logo=vue.js)
-![](https://img.shields.io/badge/🔓-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/🔓-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/🔓-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/🔓-JavaScript-informational?style=flat&color=warning&logo=javascript)
+![](https://img.shields.io/badge/🔓-Vue-informational?style=flat&color=warning&logo=vue.js)
+![](https://img.shields.io/badge/🔓-React-informational?style=flat&color=warning&logo=react)
+![](https://img.shields.io/badge/🔓-TypeScript-informational?style=flat&color=warning&logo=typescript)
+![](https://img.shields.io/badge/🔓-Node-informational?style=flat&color=warning&logo=node.js)
 ![](https://img.shields.io/badge/🔓-Figma-informational?style=flat&color=warning&logo=figma)
 ![](https://img.shields.io/badge/🔓-HTML-informational?style=flat&color=warning&logo=html5)
 ![](https://img.shields.io/badge/🔓-CSS-informational?style=flat&color=warning&logo=css3)
