@@ -13,7 +13,7 @@ Trabalho como Desenvolvedor Front-End, uma área que despertou minha paixão des
 ![](https://img.shields.io/badge/🔓-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/🔓-Wordpress-informational?style=flat&color=warning&logo=wordpress)
 
- ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vbrand01&theme=dark&utcOffset=-3) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vbrand01&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vbrand01&theme=dark) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vbrand01&theme=dark) 
  | ----------- | ----------- | 
  
 <img src="https://cdn.discordapp.com/attachments/1067165862513102954/1199752780605304973/vb3.png?ex=65c3afd9&is=65b13ad9&hm=e185a3d717d397a487b7a45333c467908471aa2a5a17dd6d372626ae94c61834&"/> </a>
