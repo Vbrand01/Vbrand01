@@ -1,5 +1,8 @@
 ## 🤙 Olá, seja bem-vindo! 
-Trabalho como Desenvolvedor Front-End, uma área que despertou minha paixão desde os meus primeiros contatos com a tecnologia. Minha jornada até aqui foi marcada por diversos projetos, os quais me proporcionaram um crescimento notável. A busca incessante pelo aprimoramento é o meu lema diário, com dedicação constante à aprendizagem, à prática e à busca por excelência, tanto em minha esfera pessoal quanto profissional.
+
+🇧🇷 | Tenho 20 anos, trabalho como Desenvolvedor Front-End, uma área que despertou minha paixão desde os meus primeiros contatos com a tecnologia. A busca incessante pelo aprimoramento é o meu lema diário, com dedicação constante à aprendizagem, à prática e à busca por melhorias, tanto em minha esfera pessoal quanto profissional.
+
+🇺🇸 | I'm 20 years old, I work as a Front-End Developer, an area that sparked my passion since my first contacts with technology. The incessant search for improvement is my daily motto, with constant dedication to learning, practicing and seeking improvements, both in my personal and professional spheres.
 
 ## 🔨 Tecnologias e ferramentas
 
