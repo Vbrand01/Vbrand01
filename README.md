@@ -25,8 +25,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vbrand01&theme=dark) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vbrand01&theme=dark) 
  | ----------- | ----------- | 
- 
-<img src="https://cdn.discordapp.com/attachments/1067165862513102954/1199752780605304973/vb3.png?ex=65c3afd9&is=65b13ad9&hm=e185a3d717d397a487b7a45333c467908471aa2a5a17dd6d372626ae94c61834&"/> </a>
+
+
+ ![vb3](https://github.com/Vbrand01/Vbrand01/assets/105603692/83ad106f-bc79-447c-9582-6dbea39f18e3) </a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vbrand01&theme=github-green-purple&hide_border=verdadeiro&date_format=j%2Fn%5B%2FY%5D&card_width=1200)](https://git.io/streak-stats)
 
 
