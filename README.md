@@ -29,7 +29,3 @@
 
  ![vb3](https://github.com/Vbrand01/Vbrand01/assets/105603692/83ad106f-bc79-447c-9582-6dbea39f18e3) </a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vbrand01&theme=github-green-purple&hide_border=verdadeiro&date_format=j%2Fn%5B%2FY%5D&card_width=1200)](https://git.io/streak-stats)
-
-
- 
-## ⬆ Estatística 
