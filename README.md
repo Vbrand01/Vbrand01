@@ -1,29 +1,15 @@
-## 🤙 Olá, seja bem-vindo! 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> Olá, seja bem-vindo! 
 
-🇧🇷 | Tenho 20 anos, trabalho como Desenvolvedor Front-End, uma área que despertou minha paixão desde os meus primeiros contatos com a tecnologia. A busca incessante pelo aprimoramento é o meu lema diário, com dedicação constante à aprendizagem, à prática e à busca por melhorias, tanto em minha esfera pessoal quanto profissional.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium%20Skin%20Tone.png" alt="Call Me Hand Medium Skin Tone" width="25" height="25" /> Hi, I'm Victor Brandão, a Frontend Developer focused on creating seamless and visually appealing digital experiences. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" /> I prioritize being polite and respectful in every interaction, and I genuinely enjoy connecting with new people and sharing my journey
 
-🇺🇸 | I'm 20 years old, I work as a Front-End Developer, an area that sparked my passion since my first contacts with technology. The incessant search for improvement is my daily motto, with constant dedication to learning, practicing and seeking improvements, both in my personal and professional spheres.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="15" height="15" /> 🇧🇷 | Tenho 20 anos, trabalho como Desenvolvedor Front-End, uma área que despertou minha paixão desde os meus primeiros contatos com a tecnologia. A busca incessante pelo aprimoramento é o meu lema diário, com dedicação constante à aprendizagem, à prática e à busca por melhorias, tanto em minha esfera pessoal quanto profissional.
 
-## 🔨 Tecnologias e ferramentas
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/White%20Flag.png" alt="White Flag" width="15" height="15" /> 🇺🇸 | I'm 20 years old, I work as a Front-End Developer, an area that sparked my passion since my first contacts with technology. The incessant search for improvement is my daily motto, with constant dedication to learning, practicing and seeking improvements, both in my personal and professional spheres.
 
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=html5)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=css3)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=sass)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=tailwindcss)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=bootstrap)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=vite)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=mui)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=javascript)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=typescript)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=vue.js)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=vuetify)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=react)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=quasar)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=csharp)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=node.js)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=php)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=figma)
-![](https://img.shields.io/badge/-informational?style=flat&color=grey&logo=wordpress)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Axe.png" alt="Axe" width="50" height="50" /> Tecnologias e ferramentas
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,mui,js,jquery,ts,react,vue,pinia,vuetify,nodejs,nextjs,vite,figma,vscode,git,github,gitlab,netlify,wordpress,photoshop&theme=dark" /> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vbrand01&theme=dark) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vbrand01&theme=dark) 
  | ----------- | ----------- | 
