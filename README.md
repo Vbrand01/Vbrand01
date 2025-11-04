@@ -1,10 +1,12 @@
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> Welcome! 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> Bem-vindo!
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium%20Skin%20Tone.png" alt="Call Me Hand Medium Skin Tone" width="25" height="25" />  Hi, I'm Victor Brandão, a Frontend Developer focused on creating seamless and visually appealing digital experiences. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="25" height="25" />  I prioritize being polite and respectful in every interaction, and I genuinely enjoy connecting with new people and sharing my journey
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> At 21 years old, I am a dedicated Front-End developer whose passion for technology began with my first experiences. I am driven by an incessant pursuit of excellence, constantly striving to learn, practice and evolve in both my personal and professional life.
+Sou Victor Brandão, um desenvolvedor Front-End apaixonado por criar interfaces modernas. Aos 22 anos, trago experiência sólida no desenvolvimento de interfaces inovadoras e responsivas que combinam estética com funcionalidade.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Axe.png" alt="Axe" width="25" height="25" /> Technologies and tools
+Ao longo da minha trajetória como desenvolvedor, aprimorei minhas habilidades de resolução de problemas através de diversos projetos e práticas de código. O que me diferencia é meu compromisso inabalável com a excelência técnica. Prospero ao enfrentar desafios complexos de frente e entregar resultados de alta qualidade, independentemente da complexidade.
+
+Em termos de realizações profissionais, colaborei com equipes para desenvolver múltiplos projetos, construindo aplicações web altamente performáticas, acessíveis e escaláveis que proporcionam experiências de usuário memoráveis.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Axe.png" alt="Axe" width="25" height="25" /> Tecnologias e Ferramentas
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,mui,js,jquery,ts,react,vue,pinia,vuetify,nodejs,nextjs,vite,figma,vscode,git,github,gitlab,netlify,wordpress,photoshop&theme=dark" /> 
 
