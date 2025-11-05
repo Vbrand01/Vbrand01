@@ -1,6 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> Bem-vindo!
 
-Front-End Developer especializado em React, Vue e TypeScript. Construindo experiências digitais escaláveis e acessíveis que impactam milhões de usuários.
+🇧🇷 - Front-End Developer especializado em React, Vue e TypeScript. Construindo experiências digitais escaláveis e acessíveis que impactam milhares de usuários.
+
+🇺🇸 - Front-End Developer specialized in React, Vue and TypeScript. Building scalable and accessible digital experiences that impact thousands of users.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Axe.png" alt="Axe" width="25" height="25" /> Tecnologias e Ferramentas
 
