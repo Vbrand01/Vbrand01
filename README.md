@@ -1,10 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" /> Bem-vindo!
 
-Sou Victor Brandão, um desenvolvedor Front-End apaixonado por criar interfaces modernas. Aos 22 anos, trago experiência sólida no desenvolvimento de interfaces inovadoras e responsivas que combinam estética com funcionalidade.
-
-Ao longo da minha trajetória como desenvolvedor, aprimorei minhas habilidades de resolução de problemas através de diversos projetos e práticas de código. O que me diferencia é meu compromisso inabalável com a excelência técnica. Prospero ao enfrentar desafios complexos de frente e entregar resultados de alta qualidade, independentemente da complexidade.
-
-Em termos de realizações profissionais, colaborei com equipes para desenvolver múltiplos projetos, construindo aplicações web altamente performáticas, acessíveis e escaláveis que proporcionam experiências de usuário memoráveis.
+Front-End Developer especializado em React, Vue e TypeScript. Construindo experiências digitais escaláveis e acessíveis que impactam milhões de usuários.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Axe.png" alt="Axe" width="25" height="25" /> Tecnologias e Ferramentas
 
