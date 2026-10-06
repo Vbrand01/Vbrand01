@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-<p align="left"><a href="https://www.linkedin.com/in/vmbrandao"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vbrand01/Vbrand01/main/link_linkedin_dark.svg"><img alt="LinkedIn" width="100%" src="https://raw.githubusercontent.com/Vbrand01/Vbrand01/main/link_linkedin_light.svg"></picture></a></p>
+<p align="left"><a href="https://github.com/Vbrand01"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vbrand01/Vbrand01/main/link_portfolio_dark.svg"><img alt="Portfolio" width="50%" src="https://raw.githubusercontent.com/Vbrand01/Vbrand01/main/link_portfolio_light.svg"></picture></a><a href="https://www.linkedin.com/in/vmbrandao"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vbrand01/Vbrand01/main/link_linkedin_dark.svg"><img alt="LinkedIn" width="50%" src="https://raw.githubusercontent.com/Vbrand01/Vbrand01/main/link_linkedin_light.svg"></picture></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vbrand01/Vbrand01/main/pacman_dark.svg">

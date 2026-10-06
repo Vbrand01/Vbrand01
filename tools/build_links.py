@@ -123,9 +123,9 @@ def envelope() -> str:
 
 
 # (file name, label, accent, icon)
-# Only LinkedIn is published. Portfolio and email can be added back as extra
-# entries; the row splits evenly across however many links are listed.
+# The row splits evenly across however many links are listed.
 LINKS = (
+    ("portfolio", "PORTFOLIO", "key", monitor),
     ("linkedin", "LINKEDIN", "value", linkedin),
 )
 
