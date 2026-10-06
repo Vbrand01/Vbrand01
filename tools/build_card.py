@@ -77,7 +77,6 @@ THEMES = {
 TITLE = "victor@brandao"
 
 INFO = [
-    ("OS", "Windows"),
     ("Uptime", None),  # filled from BIRTHDATE
     ("Host", "São Paulo, Brazil"),
     ("Kernel", "Product & Software Engineer"),
@@ -89,12 +88,13 @@ INFO = [
     None,
     ("Focus.Web", "React, Next.js, Vue, Nuxt"),
     ("Focus.State", "Zustand, Redux, Pinia"),
-    ("Focus.Data", "React Query, Supabase"),
+    ("Focus.Data", "React Query, PostgreSQL"),
     ("Focus.Api", "Node.js, Express, SQL"),
     ("Hobbies", "Reading, Running, Photography"),
 ]
 
 CONTACT = [
+    ("Portfolio", "github.com/Vbrand01"),
     ("LinkedIn", "vmbrandao"),
     ("GitHub", "Vbrand01"),
 ]

@@ -75,23 +75,23 @@ text, tspan {white-space: pre;}
 </text>
 <text fill="#c9d1d9" font-size="16px">
 <tspan x="447" y="31"><tspan class="title">victor@brandao</tspan> -—————————————————————————————————————————-</tspan>
-<tspan x="447" y="51"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> </tspan><tspan class="cc">............................................</tspan><tspan class="cc"> </tspan><tspan class="value">Windows</tspan></tspan>
-<tspan x="447" y="71"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.......................................</tspan><tspan class="cc"> </tspan><tspan class="value" id="age_data">23 years</tspan></tspan>
-<tspan x="447" y="91"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> </tspan><tspan class="cc">................................</tspan><tspan class="cc"> </tspan><tspan class="value">São Paulo, Brazil</tspan></tspan>
-<tspan x="447" y="111"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> </tspan><tspan class="cc">....................</tspan><tspan class="cc"> </tspan><tspan class="value">Product &amp; Software Engineer</tspan></tspan>
-<tspan x="447" y="131"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> </tspan><tspan class="cc">..........................</tspan><tspan class="cc"> </tspan><tspan class="value">VSCode, Cursor, Windsurf</tspan></tspan>
-<tspan x="447" y="151" class="cc">.</tspan>
-<tspan x="447" y="171"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> </tspan><tspan class="cc">..........</tspan><tspan class="cc"> </tspan><tspan class="value">TypeScript, JavaScript</tspan></tspan>
-<tspan x="447" y="191"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> </tspan><tspan class="cc">................</tspan><tspan class="cc"> </tspan><tspan class="value">HTML, CSS, Tailwind</tspan></tspan>
-<tspan x="447" y="211"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> </tspan><tspan class="cc">....................</tspan><tspan class="cc"> </tspan><tspan class="value">Portuguese, English</tspan></tspan>
-<tspan x="447" y="231" class="cc">.</tspan>
-<tspan x="447" y="251"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> </tspan><tspan class="cc">...................</tspan><tspan class="cc"> </tspan><tspan class="value">React, Next.js, Vue, Nuxt</tspan></tspan>
-<tspan x="447" y="271"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">State</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.....................</tspan><tspan class="cc"> </tspan><tspan class="value">Zustand, Redux, Pinia</tspan></tspan>
-<tspan x="447" y="291"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> </tspan><tspan class="cc">......................</tspan><tspan class="cc"> </tspan><tspan class="value">React Query, Supabase</tspan></tspan>
-<tspan x="447" y="311"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Api</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.......................</tspan><tspan class="cc"> </tspan><tspan class="value">Node.js, Express, SQL</tspan></tspan>
-<tspan x="447" y="331"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.................</tspan><tspan class="cc"> </tspan><tspan class="value">Reading, Running, Photography</tspan></tspan>
-<tspan x="447" y="351" class="cc">.</tspan>
-<tspan x="447" y="371">- Contact -——————————————————————————————————————————————-</tspan>
+<tspan x="447" y="51"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.......................................</tspan><tspan class="cc"> </tspan><tspan class="value" id="age_data">23 years</tspan></tspan>
+<tspan x="447" y="71"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> </tspan><tspan class="cc">................................</tspan><tspan class="cc"> </tspan><tspan class="value">São Paulo, Brazil</tspan></tspan>
+<tspan x="447" y="91"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> </tspan><tspan class="cc">....................</tspan><tspan class="cc"> </tspan><tspan class="value">Product &amp; Software Engineer</tspan></tspan>
+<tspan x="447" y="111"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> </tspan><tspan class="cc">..........................</tspan><tspan class="cc"> </tspan><tspan class="value">VSCode, Cursor, Windsurf</tspan></tspan>
+<tspan x="447" y="131" class="cc">.</tspan>
+<tspan x="447" y="151"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> </tspan><tspan class="cc">..........</tspan><tspan class="cc"> </tspan><tspan class="value">TypeScript, JavaScript</tspan></tspan>
+<tspan x="447" y="171"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> </tspan><tspan class="cc">................</tspan><tspan class="cc"> </tspan><tspan class="value">HTML, CSS, Tailwind</tspan></tspan>
+<tspan x="447" y="191"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> </tspan><tspan class="cc">....................</tspan><tspan class="cc"> </tspan><tspan class="value">Portuguese, English</tspan></tspan>
+<tspan x="447" y="211" class="cc">.</tspan>
+<tspan x="447" y="231"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> </tspan><tspan class="cc">...................</tspan><tspan class="cc"> </tspan><tspan class="value">React, Next.js, Vue, Nuxt</tspan></tspan>
+<tspan x="447" y="251"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">State</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.....................</tspan><tspan class="cc"> </tspan><tspan class="value">Zustand, Redux, Pinia</tspan></tspan>
+<tspan x="447" y="271"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> </tspan><tspan class="cc">....................</tspan><tspan class="cc"> </tspan><tspan class="value">React Query, PostgreSQL</tspan></tspan>
+<tspan x="447" y="291"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Api</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.......................</tspan><tspan class="cc"> </tspan><tspan class="value">Node.js, Express, SQL</tspan></tspan>
+<tspan x="447" y="311"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.................</tspan><tspan class="cc"> </tspan><tspan class="value">Reading, Running, Photography</tspan></tspan>
+<tspan x="447" y="331" class="cc">.</tspan>
+<tspan x="447" y="351">- Contact -——————————————————————————————————————————————-</tspan>
+<tspan x="447" y="371"><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.........................</tspan><tspan class="cc"> </tspan><tspan class="value">github.com/Vbrand01</tspan></tspan>
 <tspan x="447" y="391"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> </tspan><tspan class="cc">....................................</tspan><tspan class="cc"> </tspan><tspan class="value">vmbrandao</tspan></tspan>
 <tspan x="447" y="411"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.......................................</tspan><tspan class="cc"> </tspan><tspan class="value">Vbrand01</tspan></tspan>
 <tspan x="447" y="431" class="cc">.</tspan>

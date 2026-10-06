@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/vmbrandao">
+<a href="https://github.com/Vbrand01">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vbrand01/Vbrand01/main/dark_mode.svg">
     <img alt="Victor Brandão - Product & Software Engineer" src="https://raw.githubusercontent.com/Vbrand01/Vbrand01/main/light_mode.svg">
