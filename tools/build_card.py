@@ -81,7 +81,7 @@ INFO = [
     ("Uptime", None),  # filled from BIRTHDATE
     ("Host", "São Paulo, Brazil"),
     ("Kernel", "Product & Software Engineer"),
-    ("IDE", "Cursor"),
+    ("IDE", "VSCode, Cursor, Windsurf"),
     None,
     ("Languages.Programming", "TypeScript, JavaScript"),
     ("Languages.Computer", "HTML, CSS, Tailwind"),
@@ -95,7 +95,7 @@ INFO = [
 ]
 
 CONTACT = [
-    ("LinkedIn", "vmbranda"),
+    ("LinkedIn", "vmbrandao"),
     ("GitHub", "Vbrand01"),
 ]
 
