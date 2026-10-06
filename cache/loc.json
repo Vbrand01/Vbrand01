@@ -1,0 +1,307 @@
+{
+  "Vbrand01/Bootstrap-V1": {
+    "added": 73275,
+    "deleted": 0,
+    "oid": "a61cc8227908bf890c4abd6988834712b46456ec"
+  },
+  "Vbrand01/Calculadora-em-JS": {
+    "added": 73138,
+    "deleted": 0,
+    "oid": "9987783ebe197633a22573326d120a3b2329b7e1"
+  },
+  "Vbrand01/Calculator-VBrand": {
+    "added": 118513,
+    "deleted": 59296,
+    "oid": "6df4dd25a4d159118bc841997390379ca21a3b8a"
+  },
+  "Vbrand01/DevNews": {
+    "added": 9050,
+    "deleted": 1,
+    "oid": "5c32d947fce48c40c0920dfbeefceedddafa98c7"
+  },
+  "Vbrand01/Hidro-Hydration-Calculation": {
+    "added": 20,
+    "deleted": 19,
+    "oid": "be6836dc6d10ef16c183545bd7ca65990b295441"
+  },
+  "Vbrand01/ListCodeExtension": {
+    "added": 24,
+    "deleted": 1,
+    "oid": "7b1937673011768be0413cd4aa62b8befb819e9b"
+  },
+  "Vbrand01/Media-Escolar": {
+    "added": 426,
+    "deleted": 0,
+    "oid": "1c96c8685bfb4e65fa5445780451f561e7d70ac9"
+  },
+  "Vbrand01/Mini-Calculadora": {
+    "added": 569,
+    "deleted": 115,
+    "oid": "1a799fd56e6f1978848bffd3990580bec67121a2"
+  },
+  "Vbrand01/Pfyzip": {
+    "added": 2250,
+    "deleted": 172,
+    "oid": "cdef7538b704fec947b1e6690766013982b7426e"
+  },
+  "Vbrand01/Practicing-JS": {
+    "added": 158,
+    "deleted": 0,
+    "oid": "40cce0e82d7c5a46b497b0cdb0da7377063eda1f"
+  },
+  "Vbrand01/Praticando-CSS": {
+    "added": 154,
+    "deleted": 0,
+    "oid": "dca763733e15bcf21f4a20172c4dcb2a54e083e6"
+  },
+  "Vbrand01/QRCODE-generator": {
+    "added": 745,
+    "deleted": 332,
+    "oid": "4acde783d817b71557aa38fb3b94e7d724c5c456"
+  },
+  "Vbrand01/ReactJS---01": {
+    "added": 29093,
+    "deleted": 0,
+    "oid": "a285af03e87cbc622f9567c221f73eaa81be58b9"
+  },
+  "Vbrand01/Simple-Javascript-Calculator": {
+    "added": 59217,
+    "deleted": 0,
+    "oid": "880febab76db20d883da4850f49291050c57c074"
+  },
+  "Vbrand01/Slider-Carousel": {
+    "added": 387,
+    "deleted": 0,
+    "oid": "338b78d56fc4a6dfba9d6e3e87e06f3dbae4fb54"
+  },
+  "Vbrand01/SoundScript": {
+    "added": 4935,
+    "deleted": 4492,
+    "oid": "839d0761d85f61d55cc9b790c53a8bc609113881"
+  },
+  "Vbrand01/Troco-de-pagamento-simples": {
+    "added": 388,
+    "deleted": 1,
+    "oid": "5b4808b99beab17df60e835082734f0e02f1bfcc"
+  },
+  "Vbrand01/Vbrand01": {
+    "added": 4040,
+    "deleted": 194,
+    "oid": "957bbfb10960e50dbdc101002de176d472999fca"
+  },
+  "Vbrand01/WebSite---Brazil-2022": {
+    "added": 61055,
+    "deleted": 1105,
+    "oid": "db5b1a4b5b1a138a3e062eede70bfbc5352d1844"
+  },
+  "Vbrand01/app-notdev": {
+    "added": 2714,
+    "deleted": 0,
+    "oid": "50a9349bd589521ff2c4e4ccd30c6c8d21d2fd2c"
+  },
+  "Vbrand01/box-shadow-generator": {
+    "added": 59344,
+    "deleted": 12,
+    "oid": "79cb0c2da052b33742af78ac811f3beb7783f1cf"
+  },
+  "Vbrand01/btn---style-carregamento": {
+    "added": 84,
+    "deleted": 1,
+    "oid": "a15c9081795eb1eadf1a6bd876420b6d91a60739"
+  },
+  "Vbrand01/bto-basic-css": {
+    "added": 53,
+    "deleted": 0,
+    "oid": "abee361ae7de2194eed61305bb18b64a0ad2f37f"
+  },
+  "Vbrand01/bto-style1": {
+    "added": 63,
+    "deleted": 0,
+    "oid": "37ecca1dcb6f6a5ed32ba2664a6ced7a26b9378f"
+  },
+  "Vbrand01/cinnie": {
+    "added": 4143,
+    "deleted": 4,
+    "oid": "993595362f72d825efe57eef4a169239c592648c"
+  },
+  "Vbrand01/clone-pinia": {
+    "added": 1861,
+    "deleted": 12,
+    "oid": "7b992dca05226d09365f81e3b15e9ace8a2e9492"
+  },
+  "Vbrand01/consulting-github-profile": {
+    "added": 42348,
+    "deleted": 0,
+    "oid": "9e6bd1f3dc1ab932176f71624cb896ac75ea656e"
+  },
+  "Vbrand01/currency-converter-vue": {
+    "added": 11772,
+    "deleted": 0,
+    "oid": "cbc67b90593a278e8be2883784d094a8dc2af68a"
+  },
+  "Vbrand01/form-validate": {
+    "added": 119931,
+    "deleted": 59745,
+    "oid": "fa230816b923e77725c662381823659cfc31ba19"
+  },
+  "Vbrand01/github-profile-terminal": {
+    "added": 2949,
+    "deleted": 0,
+    "oid": "93b68327de2e02a02610620974901005e539f78b"
+  },
+  "Vbrand01/hash-game-jogo-da-velha": {
+    "added": 378,
+    "deleted": 6,
+    "oid": "26f2b8c1384e6c9fa22a827a2e6a4f30f7e0b3ed"
+  },
+  "Vbrand01/landing-page-elon": {
+    "added": 58985,
+    "deleted": 0,
+    "oid": "272af2dd864b1e2094b9309a3087276bbdd83666"
+  },
+  "Vbrand01/lens-pizzaria": {
+    "added": 27283,
+    "deleted": 2599,
+    "oid": "dc473fc4e272cde37187832712c34fa987e58092"
+  },
+  "Vbrand01/line-paletton": {
+    "added": 1304,
+    "deleted": 0,
+    "oid": "75dab8c536d1bc2851d02d6589b71e243d2fa036"
+  },
+  "Vbrand01/menu-style": {
+    "added": 75,
+    "deleted": 0,
+    "oid": "982890ce3060b7241692d5d68e22024b79297a41"
+  },
+  "Vbrand01/mercado-livre-web-concept": {
+    "added": 168,
+    "deleted": 6,
+    "oid": "1eb8f93bd54d174cf1bbc4cd525ea523532fc0f4"
+  },
+  "Vbrand01/nokion-clean": {
+    "added": 34,
+    "deleted": 5,
+    "oid": "b9ebec55c7698f59eb3878d0ccd309a880a76669"
+  },
+  "Vbrand01/pj": {
+    "added": 62,
+    "deleted": 1,
+    "oid": "d2f8c9e0bfce1f3423a625b8ffb6cbe72a52aaf5"
+  },
+  "Vbrand01/project-VueJS": {
+    "added": 18304,
+    "deleted": 3,
+    "oid": "b2088251206456d74f13e9d2c01735df2b622af4"
+  },
+  "Vbrand01/project-one": {
+    "added": 2903,
+    "deleted": 19,
+    "oid": "01bd793898202491f714d6771b82af7ba20e412d"
+  },
+  "Vbrand01/project-two": {
+    "added": 22092,
+    "deleted": 79,
+    "oid": "68ba389b16a44767d0dd32d68958070a29057689"
+  },
+  "Vbrand01/projeto-git": {
+    "added": 2,
+    "deleted": 0,
+    "oid": "a43c0b8d940113a51e5832acf1b1e832fec9b67e"
+  },
+  "Vbrand01/py-pdf": {
+    "added": 33,
+    "deleted": 0,
+    "oid": "97cb4e11d2f0b209fb97ac327a4e6627d919cb37"
+  },
+  "Vbrand01/quiz-vue": {
+    "added": 2563,
+    "deleted": 13,
+    "oid": "08c4c2f225bf10138e978740ef12cddbe54d6f0c"
+  },
+  "Vbrand01/quizUP": {
+    "added": 44500,
+    "deleted": 14,
+    "oid": "f0ba283c23441ddbc2d9fe34104f09be9d13415f"
+  },
+  "Vbrand01/quizUP-1.0": {
+    "added": 44843,
+    "deleted": 381,
+    "oid": "5229b92291bd542055081c7e57bdc04e09b8103d"
+  },
+  "Vbrand01/quizUP-pro": {
+    "added": 45206,
+    "deleted": 7,
+    "oid": "40b9639c44c9faa32a00cd37c71017bcab96b3c0"
+  },
+  "Vbrand01/react-sass": {
+    "added": 1,
+    "deleted": 0,
+    "oid": "9335a8bec256d9ad5353a04ffafe2eee683e486d"
+  },
+  "Vbrand01/rlg---js": {
+    "added": 313,
+    "deleted": 156,
+    "oid": "cceb83b789bfa0d490483d88d056d241c818e259"
+  },
+  "Vbrand01/robo-beta": {
+    "added": 281137,
+    "deleted": 5,
+    "oid": "c715e6a3c52ffdf230c6af2a2e4392d5df9d8812"
+  },
+  "Vbrand01/robozap--1": {
+    "added": 47,
+    "deleted": 0,
+    "oid": "152131beff154f8ae5174776a2fff62272338e8c"
+  },
+  "Vbrand01/space-snapshot-nasa": {
+    "added": 19,
+    "deleted": 11,
+    "oid": "42129df355af6fc624a484e27bc7b488113defc5"
+  },
+  "Vbrand01/spring-boot": {
+    "added": 644,
+    "deleted": 0,
+    "oid": "ad8dae81691bdeee5e140c8884ee96bf8073f620"
+  },
+  "Vbrand01/text-espa-amento": {
+    "added": 126,
+    "deleted": 1,
+    "oid": "a26692db53d025821921de9dfd0776bff8b3c3e2"
+  },
+  "Vbrand01/text-neon": {
+    "added": 62,
+    "deleted": 1,
+    "oid": "000c1ed844742211a835caae4318a357e1a4b573"
+  },
+  "Vbrand01/text-victor": {
+    "added": 61,
+    "deleted": 0,
+    "oid": "18afdf1b50087cdf57b25e154ecafff1ddd78afb"
+  },
+  "Vbrand01/to-do-list-react": {
+    "added": 31141,
+    "deleted": 1,
+    "oid": "0c8ed4473cb66df14c3f0d5a557d20fbae49d7fa"
+  },
+  "Vbrand01/up": {
+    "added": 1,
+    "deleted": 0,
+    "oid": "37f231373ce1b7a3fc2b4de93432ea09f195c3dd"
+  },
+  "Vbrand01/update": {
+    "added": 59005,
+    "deleted": 0,
+    "oid": "e26df3e6e74da0ae0d6ff9312b51d9e60a4b7c34"
+  },
+  "Vbrand01/update-time": {
+    "added": 164,
+    "deleted": 0,
+    "oid": "492f616f24b1b0175563cc1cbc8acff68dd88ead"
+  },
+  "Vbrand01/viaCEP": {
+    "added": 42353,
+    "deleted": 0,
+    "oid": "261b470278218b3412a5384a6a0387b8a459408c"
+  }
+}
