@@ -1,5 +1,5 @@
 {
- "total": 1128,
+ "total": 1179,
  "weeks": [
   [
    {
@@ -1790,7 +1790,7 @@
    },
    {
     "date": "2026-10-13",
-    "count": 8,
+    "count": 9,
     "level": 2
    },
    {
@@ -1896,13 +1896,13 @@
    },
    {
     "date": "2026-11-02",
-    "count": 1,
-    "level": 1
+    "count": 13,
+    "level": 2
    },
    {
     "date": "2026-11-03",
-    "count": 1,
-    "level": 1
+    "count": 19,
+    "level": 3
    },
    {
     "date": "2026-11-04",
@@ -1938,10 +1938,14 @@
    },
    {
     "date": "2026-11-10",
-    "count": 0,
-    "level": 0
+    "count": 7,
+    "level": 2
    },
-   null,
+   {
+    "date": "2026-11-11",
+    "count": 13,
+    "level": 2
+   },
    null,
    null,
    null
